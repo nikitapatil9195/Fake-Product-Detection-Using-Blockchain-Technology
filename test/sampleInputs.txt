@@ -1,0 +1,85 @@
+## 1st Sample input
+
+# Add Product
+
+Macbook Air M2
+Apple
+1500000
+
+# Add Seller
+
+Vinay Kumar
+Tech Delux
+4747
+7474382394
+Jay Kapoor
+Solapur, Pune
+
+# consumer Aadhaar
+
+2345623456234562
+
+
+## 2nd Sample input
+
+# Add Product
+
+Motorola G32
+Motorola
+20000
+
+# Add Seller
+
+Manoj Kate
+Sai Tech
+232323
+87767382394
+Gopal Mene
+Nagpur
+
+# consumer Aadhaar
+
+6789067890678906
+
+## 3rd Sample input
+
+# Add Product
+
+Skinshine Cream
+Abbot
+1000
+
+# Add Seller
+
+Dhanush Tonde
+Genrica
+5212
+4474582324
+Aniket Roy
+Sangli
+
+# consumer Aadhaar
+
+5345623156234565
+
+
+#nth sample input
+
+# Add Product
+
+Poco F7
+Redmi
+3000
+
+# Add Seller
+
+Dhanush Gaitonde
+Techneo
+1212
+5474582322
+Aniket Singh
+Warje
+
+# consumer Aadhaar
+
+8745623156234565
